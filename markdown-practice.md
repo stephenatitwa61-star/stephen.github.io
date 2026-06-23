@@ -6,4 +6,10 @@
 ##Things i want to learn
 - python
 - linux command
-- how to create a 
+- how to create a chatbot
+##Steps to make commit in git
+1. Git add
+2. Git commit -m"my commit message"
+3. Git push
+
+

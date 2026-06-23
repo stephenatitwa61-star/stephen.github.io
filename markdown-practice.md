@@ -4,6 +4,6 @@
 [My Github profile](htpps://github.com/stephenatitwa61-star)
 [Google](htpps://www.google.com)
 ##Things i want to learn
-- Item one
-- Item two
-- Item three
+- python
+- linux command
+- how to create a 

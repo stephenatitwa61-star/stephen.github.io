@@ -26,7 +26,7 @@ print ("hello+ name")
 
 >*Success comes from learning one step at a time*.
 ##About Me
-My name is **Stephen** and i am *learning artificial intelligence (AI)*
+My name is **Stephen** and i am *learning artificial intelligence (AI) and programming*
 ##My intrests
 - Python
 - VS code

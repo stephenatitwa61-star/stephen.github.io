@@ -11,5 +11,34 @@
 1. Git add
 2. Git commit -m"my commit message"
 3. Git push
+| Tool    | Purpose   | Link     |
+|---------|-----------|----------|
+| Github |Store and share data | htpps://github.com  |
+| VS code |write and edit code  |htpps://code.visualstudio.com
+- [x] Learn Github basics
+- [ ] learn linux commands
+- [ ] Learn web development
+##Python example
+```python
+name = "Stephen"
+print ("hello+ name")
+```
+
+>*Success comes from learning one step at a time*.
+##About Me
+My name is **Stephen** and i am *learning artificial intelligence (AI)*
+##My intrests
+- Python
+- VS code
+- c++
+I use `VS code` to write my code.
+You can visit my [Github]
+Profile (htpps://github.com./stephenatitwa61-star).
+> I believe that learning new skills can change my Future.
+
+
+
+
+
 
 
